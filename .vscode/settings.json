@@ -4,5 +4,9 @@
         "frontmatter",
         "Rakefile",
         "Sneider"
-    ]
+    ],
+    "files.associations": {
+        "*search*.json": "liquid",
+        "*.md": "liquid",
+    }
 }
