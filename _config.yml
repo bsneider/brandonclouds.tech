@@ -2,3 +2,21 @@ title: "BrandonClouds.Tech"
 remote_theme: just-the-docs/just-the-docs
 # color_scheme: "dark"
 search_enabled: true
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: G-6SLC4G1F8K
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Brandon Clouds on GitHub":
+    - "//github.com/bsneider/brandonclouds.tech"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+footer_content: "Copyright &copy; 2022 Brandon Sneider"
