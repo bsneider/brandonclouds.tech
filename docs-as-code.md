@@ -1,7 +1,7 @@
 ---
-title: Education
+title: Docs as Code
 has_children: true
-nav_order: 2
+nav_order: 1
 ---
 
 # DocsAsCode
