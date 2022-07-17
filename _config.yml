@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Brandon Clouds
 description: A tech blog by Brandon Sneider spanning Cloud, DevOps, Security, and Education
-baseurl: "/brandonclouds.tech" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bsneider.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
