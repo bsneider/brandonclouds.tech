@@ -2,17 +2,17 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Brandon Clouds is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
 # Focus on writing good documentation.
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Brandon Clouds gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/bsneider/brandonclouds.tech){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -20,14 +20,14 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 
 ### Dependencies
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+Brandon Clouds is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Brandon Clouds requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
 
 ### Quick start: Use as a GitHub Pages remote theme
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+1. Add Brandon Clouds to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 
 ```yaml
-remote_theme: just-the-docs/just-the-docs
+remote_theme: brandon-clouds/brandon-clouds
 ```
 
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
@@ -36,21 +36,21 @@ remote_theme: just-the-docs/just-the-docs
 
 1. Install the Ruby Gem
   ```bash
-  $ gem install just-the-docs
+  $ gem install brandon-clouds
   ```
   ```yaml
   # .. or add it to your your Jekyll site’s Gemfile
-  gem "just-the-docs"
+  gem "brandon-clouds"
   ```
 
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
+2. Add Brandon Clouds to your Jekyll site’s `_config.yml`
   ```yaml
-  theme: "just-the-docs"
+  theme: "brandon-clouds"
   ```
 
 3. _Optional:_ Initialize search data (creates `search-data.json`)
   ```bash
-  $ bundle exec just-the-docs rake search:init
+  $ bundle exec brandon-clouds rake search:init
   ```
 
 3. Run you local Jekyll server
@@ -66,7 +66,7 @@ remote_theme: just-the-docs/just-the-docs
 
 If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
-### Configure Just the Docs
+### Configure Brandon Clouds
 
 - [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
@@ -74,18 +74,18 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ## About the project
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+Brandon Clouds is &copy; 2022-{{ "now" | date: "%Y" }} by [Brandon Sneider](https://brandonsneider.com).
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+Brandon Clouds is distributed by an [MIT license](https://github.com/bsneider/brandonclouds.tech/tree/main/LICENSE.txt).
 
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/bsneider/brandonclouds.tech#contributing).
 
-#### Thank you to the contributors of Just the Docs!
+#### Thank you to the contributors of Brandon Clouds!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -97,6 +97,6 @@ email, or any other method with the owners of this repository before making a ch
 
 ### Code of Conduct
 
-Just the Docs is committed to fostering a welcoming community.
+Brandon Clouds is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://github.com/bsneider/brandonclouds.tech/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
