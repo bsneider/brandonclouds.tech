@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "blanklines",
+        "brandonclouds",
+        "bsneider",
         "frontmatter",
         "Rakefile",
         "Sneider"
@@ -8,5 +10,6 @@
     "files.associations": {
         "*search*.json": "liquid",
         "*.md": "liquid",
+        "brandon-clouds.js": "liquid",
     }
 }
