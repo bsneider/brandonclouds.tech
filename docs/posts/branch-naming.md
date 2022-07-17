@@ -1,7 +1,7 @@
 ---
 title: Branch Naming
-parent: Git
-nav_order: 2
+parent: Git Hygiene
+nav_order: 3
 ---
 
 # Branch Naming

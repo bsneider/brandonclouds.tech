@@ -1,7 +1,7 @@
 ---
 title: Common Terms
 parent: Education
-nav_order: 2
+nav_order: 3
 ---
 
 # Common Terms

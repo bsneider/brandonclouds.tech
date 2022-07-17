@@ -1,7 +1,6 @@
 ---
 title: How to GitHub
-parent: GitHub
-nav_order: 2
+nav_order: 3
 ---
 
 # How to Git Hub

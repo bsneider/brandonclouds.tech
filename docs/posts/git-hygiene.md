@@ -1,7 +1,7 @@
 ---
 title: Git Hygiene
-parent: Git
-nav_order: 2
+has_children: true
+nav_order: 3
 ---
 
 # Git Hygiene
