@@ -1,7 +1,13 @@
 ---
-title: Common Terms
-parent: Education
+title: "Common Terms"
 nav_order: 3
+author: "Brandon Sneider"
+categories: [Education]
+description: "Common industry terms you may not have learned in school or in tutorials"
+layout: post
+image: assets/images/6.jpg
+featured: false
+hidden: false
 ---
 
 # Common Terms

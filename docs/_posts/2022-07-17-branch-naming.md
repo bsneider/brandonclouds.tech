@@ -1,7 +1,16 @@
 ---
-title: Branch Naming
-parent: Git Hygiene
+title: "Branch Naming"
+#parent: "Git Hygiene"
 nav_order: 3
+author: Brandon Sneider
+categories: [DevOps, QuickStart, Education]
+description: "How to work with a ticketing system like Jira in a hygenic way"
+layout: post
+image: assets/images/5.jpg
+# tags: [red, yellow]
+featured: true
+hidden: true
+#rating: 4.5
 ---
 
 # Branch Naming

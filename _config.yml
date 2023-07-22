@@ -1,32 +1,14 @@
 title: "BrandonClouds.Tech"
-remote_theme: just-the-docs/just-the-docs
+remote_theme: wowthemesnet/mediumish-theme-jekyll
 # color_scheme: "dark"
 search_enabled: true
-
+repository: bsneider/brandonclouds.tech
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 ga_tracking: G-6SLC4G1F8K
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-head:
-  - script:
-      async: true
-      defer: true
-      src: 'https://scripts.simpleanalyticscdn.com/latest.js'
-      data-collect-dnt: 'true'
-      data-hostname: 'brandonclouds.tech'
-  - script:
-      async: true
-      defer: true
-      src: 'https://scripts.simpleanalyticscdn.com/auto-events.js'
-      data-collect-dnt: 'true'
-      data-full-urls: 'true'
-      data-hostname: 'brandonclouds.tech'
-  - noscript:
-      children:
-        - img:
-            src: 'https://queue.simpleanalyticscdn.com/noscript.gif?hostname=brandonclouds.tech'
-            alt: ''
-            referrerpolicy: 'no-referrer-when-downgrade'
+
+include: ["_includes/simple-analytics.html"]
 # Enable or disable heading anchors
 heading_anchors: true
 
